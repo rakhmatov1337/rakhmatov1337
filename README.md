@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=60&lines=Hi+there+%F0%9F%91%8B+I'm+a+Software+Engineer;Python+%7C+Django+%7C+NestJS+Developer;AI+Engineering+%26+LLM+Integration;Backend+%2B+DevOps+enthusiast;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=60&lines=Hi+there+%F0%9F%91%8B+I'm+a+Software+Engineer;Python+%7C+JavaScript+%7C+Developer;AI+Engineering+%26+LLM+Integration;Backend+%2B+DevOps+enthusiast;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
 </h1>
 
 <p align="center">
